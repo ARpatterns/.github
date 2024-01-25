@@ -13,3 +13,9 @@ This project is split into three repositories:
 * The [catalog](https://github.com/ARpatterns/catalog/), which contains the catalog of AR patterns
 * The [diagram](https://github.com/ARpatterns/diagram/), which describes the way of documenting patterns in the form of markdown diagrams
 * The [landingpage](https://github.com/ARpatterns/landingpage/), which is hosted at [arpatterns.dev](https://arpatterns.dev)
+
+## How to Contribute
+This is a community-driven catalog, which means we need you as a contributor! Join us in creating new patterns and enhancing the existing ones.
+We would love to see more examples of the patterns in use in other other technologies.
+
+How to contribute is described in detail here: [Contributing](CONTRIBUTING.md)
