@@ -16,6 +16,6 @@ This project is split into three repositories:
 
 ## How to Contribute
 This is a community-driven catalog, which means we need you as a contributor! Join us in creating new patterns and enhancing the existing ones.
-We would love to see more examples of the patterns in use in other other technologies.
+We would love to see more examples of the patterns in use in other technologies.
 
 How to contribute is described in detail here: [Contributing](CONTRIBUTING.md)
