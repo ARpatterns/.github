@@ -10,7 +10,7 @@ AR patterns encompass high-level design patterns covering fundamental concepts f
 
 ## Structure of this Repository
 This project is split into three repositories:
-* 📖 The [catalog](https://github.com/ARpatterns/catalog/), which contains the catalog of AR patterns
+* <strong>📖 The [catalog](https://github.com/ARpatterns/catalog/), which contains the catalog of AR patterns</strong>
 * 📝 The [diagram](https://github.com/ARpatterns/diagram/), which describes the way of documenting patterns in the form of markdown diagrams
 * 🌐 The [landingpage](https://github.com/ARpatterns/landingpage/), which is hosted at [arpatterns.dev](https://arpatterns.dev)
 
