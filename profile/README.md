@@ -8,11 +8,21 @@ The purpose of this repository is to document, maintain and extend the [catalog 
 ## What are AR Patterns?
 AR patterns encompass high-level design patterns covering fundamental concepts for crafting immersive AR experiences. AR patterns serve as a valuable means of communicating proven, reusable solutions to recurring design problems encountered during AR development. A list of AR patterns is collected in a public catalog, including technical as well as User Experience (UX) aspects. AR pattern diagrams foster a consistent presentation and technology-agnostic documentation of AR design patterns. The AR patterns in the catalog are illustrated by text descriptions, visuals of spatial scenarios, pattern diagrams and UI examples. Additionally AR patterns may be examplified by platform-specific source code samples.
 
-## Structure of this Repository
-This project is split into three repositories:
-* <strong>📖 The [catalog](https://github.com/ARpatterns/catalog/), which contains the catalog of AR patterns</strong>
-* 📝 The [diagram](https://github.com/ARpatterns/diagram/), which describes the way of documenting patterns in the form of markdown diagrams
-* 🌐 The [landingpage](https://github.com/ARpatterns/landingpage/), which is hosted at [arpatterns.dev](https://arpatterns.dev)
+## Table of Contents
+
+### Generic Concepts of AR Patterns
+The theoretical concepts of AR Patterns are reflected in these repositories:
+* <strong>[catalog](https://github.com/ARpatterns/catalog/), which contains the catalog of AR patterns</strong>
+* [diagram](https://github.com/ARpatterns/diagram/), which describes the way of documenting patterns in the form of markdown diagrams
+* [landingpage](https://github.com/ARpatterns/landingpage/), which is the Web page hosted at [arpatterns.dev](https://arpatterns.dev)
+
+### Technology-specific Applications of AR Patterns
+* [scenarios](https://github.com/ARpatterns/scenarios/), which lists typical AR applications
+* AR Patterns in specific technologies
+  * [AR Patterns in Declare using ARchi VR App]((https://github.com/ARpatterns/declare/)
+  * AR Patterns in A-Frame using WebXR
+  * AR Patterns in C# using Unity/ARFoundation
+  * AR Patterns in ...
 
 ## How to Contribute
 This is a community-driven catalog, which means we need you as a contributor! Join us in creating new patterns and enhancing the existing ones.
