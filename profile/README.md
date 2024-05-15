@@ -13,7 +13,7 @@ AR patterns encompass high-level design patterns covering fundamental concepts f
 ### Generic Concepts of AR Patterns
 The theoretical concepts of AR Patterns are reflected in these repositories:
 * <strong>[catalog](https://github.com/ARpatterns/catalog/), which contains the catalog of AR patterns</strong>
-  * [scenarios](https://github.com/ARpatterns/catalog/scenarios.md), which lists typical application scenarious using various AR patterns
+  * [scenarios](https://github.com/ARpatterns/catalog/scenarios.md), which lists typical application scenarios using various AR patterns
 * [diagram](https://github.com/ARpatterns/diagram/), which describes the way of documenting patterns in the form of markdown diagrams
 * [landingpage](https://github.com/ARpatterns/landingpage/), which is the Web page hosted at [arpatterns.dev](https://arpatterns.dev)
 
