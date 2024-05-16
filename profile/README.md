@@ -17,7 +17,7 @@ The theoretical concepts of AR Patterns are reflected in these repositories:
 
 ### AR Scenarios - Technology-specific Application Scenarios of AR Patterns
 AR Patterns applied in specific technologies:
-<--  * [scenarios](https://github.com/ARpatterns/catalog/scenarios.md), which lists typical application scenarios using various AR patterns --/>
+<!--  * [scenarios](https://github.com/ARpatterns/catalog/scenarios.md), which lists typical application scenarios using various AR patterns -->
 * [AR Patterns in DeclARe using ARchi VR App](https://github.com/ARpatterns/declare/)
 * AR Patterns in A-Frame using WebXR
 * AR Patterns in C# using Unity/ARFoundation
