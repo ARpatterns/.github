@@ -9,15 +9,15 @@ The purpose of the following repositories is to document, maintain and extend th
 
 ## Table of Contents
 
-### Generic Concepts of AR Patterns
+### AR Patterns - Reusable Concepts for immersive AR Experiences
 The theoretical concepts of AR Patterns are reflected in these repositories:
 * <strong>[catalog](https://github.com/ARpatterns/catalog/), which contains the catalog of AR patterns</strong>
-  * [scenarios](https://github.com/ARpatterns/catalog/scenarios.md), which lists typical application scenarios using various AR patterns
 * [diagram](https://github.com/ARpatterns/diagram/), which describes the way of documenting patterns in the form of markdown diagrams
 * [landingpage](https://github.com/ARpatterns/landingpage/), which is the Web page hosted at [arpatterns.dev](https://arpatterns.dev)
 
-### Technology-specific Applications of AR Patterns
-AR Patterns in specific technologies:
+### AR Scenarios - Technology-specific Application Scenarios of AR Patterns
+AR Patterns applied in specific technologies:
+<--  * [scenarios](https://github.com/ARpatterns/catalog/scenarios.md), which lists typical application scenarios using various AR patterns --/>
 * [AR Patterns in DeclARe using ARchi VR App](https://github.com/ARpatterns/declare/)
 * AR Patterns in A-Frame using WebXR
 * AR Patterns in C# using Unity/ARFoundation
