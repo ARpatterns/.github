@@ -3,9 +3,12 @@
 > Event-driven Design Patterns in Creating Augmented Reality Experiences
 
 ## What are AR Patterns?
-AR patterns encompass high-level design patterns covering fundamental concepts for crafting immersive AR experiences. AR patterns serve as a valuable means of communicating proven, reusable solutions to recurring design problems encountered during AR development. A list of AR patterns is collected in a public catalog, including technical as well as User Experience (UX) aspects. AR pattern diagrams foster a consistent presentation and technology-agnostic documentation of AR design patterns. The AR patterns in the catalog are illustrated by text descriptions, visuals of spatial scenarios, pattern diagrams and UI examples. Additionally AR patterns may be examplified by platform-specific source code samples.
+AR patterns encompass high-level design patterns covering fundamental concepts for crafting immersive AR experiences. AR patterns serve as a valuable means of communicating proven, reusable solutions to recurring design problems encountered during AR development. A list of AR patterns is collected in a public catalog, including technical as well as User Experience (UX) aspects. AR pattern diagrams foster a consistent presentation and technology-agnostic documentation of AR design patterns. The AR patterns in the catalog are documented by their titles, text descriptions, illustrations of spatial scenarios, pattern diagrams (as a kind of pseudo code) and UI examples. 
 
 The purpose of the following repositories is to document, maintain and extend the [catalog of AR Patterns](https://github.com/ARpatterns/catalog) first published in the paper: ["AR Patterns: Event-Driven Design Patterns in Creating Augmented Reality Experiences"](https://link.springer.com/chapter/10.1007/978-3-031-48495-7_6).
+
+## What AR Scenarios
+An "AR scenario" in the context of AR Patterns refers to a detailed documentation of a specific scenario where combined AR patterns are applied with a particular HW/SW technology platform. It outlines how these elements are used to achieve a defined goal by creating a spatial AR user experience. An AR scenario includes sample screen recording, title, use case category, detailed description, explanatory illustration, used AR patterns, AR pattern diagram, and sample project with source code and media assets to demonstrate the practical application of AR patterns.
 
 ## Table of Contents
 
