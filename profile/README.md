@@ -28,7 +28,7 @@ AR Patterns applied with specific technologies:
   * AR Patterns using **Adobe Aero**
   * AR Patterns with **Apple Reality Composer** 
 * Low-Code
-  * [AR Patterns in DeclARe using **ARchi VR** App](https://github.com/ARpatterns/declare/)
+  * AR Patterns in DeclARe using [**ARchi VR** App](https://github.com/ARpatterns/declare/)
 * Full-Code
   * AR Patterns in **AR.js** using WebXR/A-Frame/three.js
   * AR Patterns in C# using Unity/ARFoundation
