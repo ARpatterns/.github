@@ -17,8 +17,8 @@ An "AR scenario" in the context of AR Patterns refers to a detailed documentatio
 The theoretical concepts of AR Patterns are reflected in these repositories:
 * [**catalog**](https://github.com/ARpatterns/catalog/), which contains the catalog of basic AR patterns
 * [diagram](https://github.com/ARpatterns/diagram/), which describes the way of documenting patterns in the form of markdown diagrams
-* [use cases](https://github.com/ARpatterns/catalog/usecases.md), which lists use case categories of scenarios using various AR patterns
-* [technology platforms](https://github.com/ARpatterns/catalog/platforms.md), which lists available technology platforms that showcase scenarios using various AR patterns 
+* [use cases](https://github.com/ARpatterns/catalog/blob/main/usecases.md), which lists use case categories of scenarios using various AR patterns
+* [technology platforms](https://github.com/ARpatterns/catalog/blob/main/platforms.md), which lists available technology platforms that showcase scenarios using various AR patterns 
 
 <!--* [landingpage](https://github.com/ARpatterns/landingpage/), which is the Web page hosted at [arpatterns.dev](https://arpatterns.dev)  -->
 
