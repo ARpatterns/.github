@@ -14,7 +14,7 @@ An "AR scenario" in the context of AR Patterns refers to a detailed documentatio
 
 ### AR Patterns - Reusable Concepts for immersive AR Experiences
 The theoretical concepts of AR Patterns are reflected in these repositories:
-* <strong>[catalog](https://github.com/ARpatterns/catalog/), which contains the catalog of AR patterns</strong>
+* [**catalog**](https://github.com/ARpatterns/catalog/), which contains the catalog of AR patterns
 * [diagram](https://github.com/ARpatterns/diagram/), which describes the way of documenting patterns in the form of markdown diagrams
 * [use cases](https://github.com/ARpatterns/catalog/usecases.md), which lists use case categories of scenarios using various AR patterns
 
