@@ -36,4 +36,4 @@ AR Patterns applied with specific technologies:
 ## How to Contribute
 This is a community-driven initiative, which means we need you as a contributor! We would love to see more examples of AR patterns applied in other technologies. Join us in documenting new patterns and enhancing the existing ones.
 
-How to contribute is described in detail here: [Contributing](https://github.com/ARpatterns/catalog/CONTRIBUTING.md)
+How to contribute is described in detail here: [Contributing](https://github.com/ARpatterns/catalog/blob/main/CONTRIBUTING.md)
