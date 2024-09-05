@@ -26,7 +26,7 @@ The theoretical concepts of AR Patterns are reflected in these repositories:
 AR Patterns applied with specific technologies:
 * No-Code
   * AR Patterns using **Adobe Aero**
-  * AR Patterns with **Apple Reality Composer** 
+  * AR Patterns with [**Apple Reality Composer**](https://github.com/ARpatterns/AppleRealityComposer/)
 * Low-Code
   * AR Patterns in DeclARe using [**ARchi VR** App](https://github.com/ARpatterns/declare/)
 * Full-Code
