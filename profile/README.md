@@ -1,6 +1,6 @@
 # AR Patterns
 
-> Event-driven Design Patterns in Creating Augmented Reality Experiences
+> *Event-driven Design Patterns in Creating Augmented Reality Experiences*
 
 ## What are AR Patterns?
 AR patterns encompass high-level design patterns covering fundamental concepts for crafting immersive Augmented Reality (AR) experiences. AR patterns serve as a valuable means of communicating proven, reusable solutions to recurring design problems encountered during AR development. A list of AR patterns is collected in a public catalog, including technical as well as User Experience (UX) aspects. Event-Condition-Action (ECA) is the core pattern to analyze and describe the behavior and interactivity of AR experiences. ECA diagrams foster a consistent presentation and technology-agnostic documentation of applied AR design patterns. The AR patterns in the catalog are documented by their title, a text description, illustration of the spatial scenario, and ECA diagram (as a kind of pseudo code). 
