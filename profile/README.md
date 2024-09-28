@@ -27,11 +27,13 @@ AR Patterns applied with specific technologies:
 * No-Code
   * AR Patterns using **Adobe Aero**
   * AR Patterns with [**Apple Reality Composer**](https://github.com/ARpatterns/AppleRealityComposer/)
+  * AR Patterns using **Snap AR**
+
 * Low-Code
-  * AR Patterns in DeclARe using [**ARchi VR** App](https://github.com/ARpatterns/declare/)
+  * AR Patterns in DeclARe using [**ARchi VR**](https://github.com/ARpatterns/declare/)
 * Full-Code
-  * AR Patterns in **AR.js** using WebXR/A-Frame/three.js
-  * AR Patterns in C# using Unity/ARFoundation
+  * AR Patterns with **AR.js** using WebXR/A-Frame/three.js
+  * AR Patterns in C# using **Unity/ARFoundation**
 
 ## How to Contribute
 This is a community-driven initiative, which means we need you as a contributor! We would love to see more examples of AR patterns applied in other technologies. Join us in documenting new patterns and enhancing the existing ones.
