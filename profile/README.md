@@ -15,12 +15,12 @@ An "AR scenario" in the context of AR Patterns refers to a detailed documentatio
 
 ### AR Patterns - Reusable Building Blocks for immersive AR Experiences
 The concepts of AR Patterns are reflected in these repositories:
-* [**catalog**](https://github.com/ARpatterns/catalog/), that contains the catalog of basic AR patterns
-* [diagram](https://github.com/ARpatterns/diagram/), which describes the way of documenting patterns in the form of Event-Confition-Action diagrams using markdown syntax
-* [use cases](https://github.com/ARpatterns/catalog/blob/main/usecases.md), which lists use case categories of AR scenarios
-* [technology platforms](https://github.com/ARpatterns/catalog/blob/main/platforms.md), which lists available technology platforms that showcase scenarios using various AR patterns 
+* [**catalog**](https://github.com/ARpatterns/catalog/) that lists behavior and augmentation patterns used in AR experiences
+* [diagram](https://github.com/ARpatterns/diagram/) which describes the way of documenting AR patterns in the form of Event-Condition-Action diagrams using markdown syntax
+* [use cases](https://github.com/ARpatterns/catalog/blob/main/usecases.md) listing use case categories of AR scenarios
+* [technology platforms](https://github.com/ARpatterns/catalog/blob/main/platforms.md) listing available technology platforms that showcase scenarios using various AR patterns 
 
-<!--* [landingpage](https://github.com/ARpatterns/landingpage/), which is the Web page hosted at [arpatterns.dev](https://arpatterns.dev)  -->
+<!--* [landingpage](https://github.com/ARpatterns/landingpage/) which is the Web page hosted at [arpatterns.dev](https://arpatterns.dev)  -->
 
 ### AR Scenarios - Technology-specific Use Cases using AR Patterns
 AR Patterns applied with specific technologies:
