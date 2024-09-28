@@ -15,8 +15,8 @@ An "AR scenario" in the context of AR Patterns refers to a detailed documentatio
 
 ### AR Patterns - Reusable Building Blocks for immersive AR Experiences
 The concepts of AR Patterns are reflected in these repositories:
-* [**catalog**](https://github.com/ARpatterns/catalog/) that lists behavior and augmentation patterns used in AR experiences
-* [diagram](https://github.com/ARpatterns/diagram/) which describes the way of documenting AR patterns in the form of Event-Condition-Action diagrams using markdown syntax
+* [**catalog**](https://github.com/ARpatterns/catalog/) that lists [augmentation patterns](https://github.com/ARpatterns/catalog/augmentation-patterns/), [behavior patterns](https://github.com/ARpatterns/catalog/behavior-patterns/), and [Event-Condition-Action pattern](https://github.com/ARpatterns/catalog/eca/) used in AR experiences
+* [**diagram**](https://github.com/ARpatterns/diagram/) which describes the way of documenting AR patterns in the form of Event-Condition-Action diagrams using markdown syntax
 * [use cases](https://github.com/ARpatterns/catalog/blob/main/usecases.md) listing use case categories of AR scenarios
 * [technology platforms](https://github.com/ARpatterns/catalog/blob/main/platforms.md) listing available technology platforms that showcase scenarios using various AR patterns 
 
