@@ -42,11 +42,20 @@ This is a community-driven initiative, which means we need you as a contributor!
 How to contribute is described in detail here: [Contributing](https://github.com/ARpatterns/catalog/blob/main/CONTRIBUTING.md)
 
 ## Acknowledgements
-The creation of these github repositories and the [arpatterns.dev](https://arpatterns.dev) Web site as a "Community Platform to Promote AR Patterns" is funded by [DIZH](https://www.dizh.uzh.ch/en/), the Digitalization Initiative of the Zurich Higher Education Institutions. 
+The creation of the conceptual repositories and the [arpatterns.dev](https://arpatterns.dev) Web site as a "Community Platform to Promote AR Patterns" is funded by [DIZH](https://www.dizh.uzh.ch/en/), the Digitalization Initiative of the Zurich Higher Education Institutions. 
 
 The project has been initiated and is run by
-* [Philipp Ackermann](https://www.zhaw.ch/de/ueber-uns/person/acke/), ZHAW School of Engineering, Inventor of AR Patterns and ECA Diagram
-* [Steven Häsler](https://www.zhaw.ch/de/ueber-uns/person/hasv/), ZHAW School of Engineering, Technical Implementation 
-* [Alessandro Holler](https://www.zhdk.ch/person/alessandro-holler-184771), ZHdK Departement Design, Creator of Illustration Toolbox
-* [Stefan Schmidlin](https://www.zhdk.ch/person/stefan-schmidlin-170111), ZHdK Departement Design, Conceptual Coaching
-* Benjamin Stern, ZHAW School of Engineering, Technical Implementation
+* [Philipp Ackermann](https://www.zhaw.ch/de/ueber-uns/person/acke/), ZHAW School of Engineering, inventor of AR Patterns and ECA Diagram
+* [Steven Häsler](https://www.zhaw.ch/de/ueber-uns/person/hasv/), ZHAW School of Engineering, technical implementation 
+* [Alessandro Holler](https://www.zhdk.ch/person/alessandro-holler-184771), ZHdK Departement Design, creator of Illustration Toolbox
+* [Stefan Schmidlin](https://www.zhdk.ch/person/stefan-schmidlin-170111), ZHdK Departement Design, conceptual coaching
+* Benjamin Stern, ZHAW School of Engineering, technical implementation
+
+Technology-specific use cases to demonstate AR patterns in specific AR scenarios are work-in-progress and are contributed by 
+*  **Apple Reality Composer**
+  * [Win-Hon Trinh](https://github.com/Winni00)
+* **ARchi VR**
+  * [Philipp Ackermann](https://www.zhaw.ch/de/ueber-uns/person/acke/)
+* **Snap AR**
+  * Martina Kessler
+  * [Stefan Schmidlin](https://www.zhdk.ch/person/stefan-schmidlin-170111)
