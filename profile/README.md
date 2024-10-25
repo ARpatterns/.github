@@ -55,8 +55,10 @@ Technology-specific use cases to demonstate AR patterns in specific AR scenarios
 
 *  Apple Reality Composer
   * [Win-Hon Trinh](https://www.zhaw.ch/de/ueber-uns/person/trih/): https://github.com/ARpatterns/AppleRealityComposer/
+
 * ARchi VR
   * [Philipp Ackermann](https://www.zhaw.ch/de/ueber-uns/person/acke/): https://github.com/ARpatterns/declare/ 
+
 * Snap AR
   * [Martina Kessler](https://www.zhaw.ch/de/ueber-uns/person/kesm/): to-be-announced
   * [Stefan Schmidlin](https://www.zhdk.ch/person/stefan-schmidlin-170111): to-be-announced
