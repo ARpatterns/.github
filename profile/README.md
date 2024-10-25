@@ -40,3 +40,13 @@ AR Patterns applied with specific technologies:
 This is a community-driven initiative, which means we need you as a contributor! We would love to see more examples of AR patterns applied in other technologies. Join us in documenting new patterns and enhancing the existing ones.
 
 How to contribute is described in detail here: [Contributing](https://github.com/ARpatterns/catalog/blob/main/CONTRIBUTING.md)
+
+## Acknowledgements
+The creation of these github repositories and the [arpatterns.dev](https://arpatterns.dev) Web site as a "Community Platform to Promote AR Patterns" is funded by [DIZH](https://www.dizh.uzh.ch/en/), the Digitalization Initiative of the Zurich Higher Education Institutions. 
+
+The project has been initiated and is run by
+* [Philipp Ackermann](https://www.zhaw.ch/de/ueber-uns/person/acke/), ZHAW School of Engineering
+* [Steven Häsler]([)](https://www.zhaw.ch/de/ueber-uns/person/hasv/), ZHAW School of Engineering
+* [Alessandro Holler](https://www.zhdk.ch/person/alessandro-holler-184771), ZHdK Departement Design
+* [Stefan Schmidlin](https://www.zhdk.ch/person/stefan-schmidlin-170111), ZHdK Departement Design
+* Benjamin Stern, ZHAW School of Engineering
