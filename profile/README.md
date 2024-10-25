@@ -52,13 +52,7 @@ The project has been initiated and is run by
 * Benjamin Stern, ZHAW School of Engineering, technical implementation
 
 Technology-specific use cases to demonstate AR patterns in specific AR scenarios are work-in-progress and are contributed by
-
-*  Apple Reality Composer
-  * [Win-Hon Trinh](https://www.zhaw.ch/de/ueber-uns/person/trih/): https://github.com/ARpatterns/AppleRealityComposer/
-
-* ARchi VR
-  * [Philipp Ackermann](https://www.zhaw.ch/de/ueber-uns/person/acke/): https://github.com/ARpatterns/declare/ 
-
-* Snap AR
-  * [Martina Kessler](https://www.zhaw.ch/de/ueber-uns/person/kesm/): to-be-announced
-  * [Stefan Schmidlin](https://www.zhdk.ch/person/stefan-schmidlin-170111): to-be-announced
+* [Win-Hon Trinh](https://www.zhaw.ch/de/ueber-uns/person/trih/) for Apple Reality Composer: https://github.com/ARpatterns/AppleRealityComposer/
+* [Philipp Ackermann](https://www.zhaw.ch/de/ueber-uns/person/acke/) for ARchi VR: https://github.com/ARpatterns/declare/ 
+* [Martina Kessler](https://www.zhaw.ch/de/ueber-uns/person/kesm/) for Snap AR: to-be-announced
+* [Stefan Schmidlin](https://www.zhdk.ch/person/stefan-schmidlin-170111) for Snap AR: to-be-announced
