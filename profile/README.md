@@ -5,7 +5,7 @@
 ## What are AR Patterns?
 AR patterns encompass high-level design patterns covering fundamental concepts for crafting immersive Augmented Reality (AR) experiences. AR patterns serve as a valuable means of communicating proven, reusable solutions to recurring design problems encountered during AR development. A list of AR patterns is collected in a public catalog, including technical as well as User Experience (UX) aspects. Event-Condition-Action (ECA) is the core pattern to analyze and describe the behavior and interactivity of AR experiences. ECA diagrams foster a consistent presentation and technology-agnostic documentation of applied AR design patterns. The AR patterns in the catalog are documented by their title, a text description, illustration of the spatial scenario, and ECA diagram (as a kind of pseudo code). 
 
-The purpose of the following repositories is to document, maintain and extend the [catalog of AR Patterns](https://github.com/ARpatterns/catalog) first published in the paper: ["AR Patterns: Event-Driven Design Patterns in Creating Augmented Reality Experiences"](https://link.springer.com/chapter/10.1007/978-3-031-48495-7_6).
+The purpose of the following repositories is to document, maintain and extend the [catalog of AR Patterns](https://github.com/ARpatterns/catalog) first published in the paper: ["AR Patterns: Event-Driven Design Patterns in Creating Augmented Reality Experiences"](https://link.springer.com/chapter/10.1007/978-3-031-48495-7_6). Additionally it provides reusable building blocks to illustrate and describe AR scenarios. 
 
 ## What are AR Scenarios?
 An "AR scenario" in the context of AR Patterns refers to a detailed documentation of a specific scenario where combined AR patterns are applied with a particular HW/SW technology platform. It outlines how these elements are used to achieve a defined goal by creating a spatial AR user experience. An AR scenario includes sample screen recording, title, use case category, detailed description, explanatory illustration, enumeration of used AR patterns, ECA diagrams, and a sample project with source code and media assets to demonstrate the practical application of AR patterns.
@@ -45,8 +45,8 @@ How to contribute is described in detail here: [Contributing](https://github.com
 The creation of these github repositories and the [arpatterns.dev](https://arpatterns.dev) Web site as a "Community Platform to Promote AR Patterns" is funded by [DIZH](https://www.dizh.uzh.ch/en/), the Digitalization Initiative of the Zurich Higher Education Institutions. 
 
 The project has been initiated and is run by
-* [Philipp Ackermann](https://www.zhaw.ch/de/ueber-uns/person/acke/), ZHAW School of Engineering
-* [Steven Häsler](https://www.zhaw.ch/de/ueber-uns/person/hasv/), ZHAW School of Engineering
-* [Alessandro Holler](https://www.zhdk.ch/person/alessandro-holler-184771), ZHdK Departement Design
-* [Stefan Schmidlin](https://www.zhdk.ch/person/stefan-schmidlin-170111), ZHdK Departement Design
-* Benjamin Stern, ZHAW School of Engineering
+* [Philipp Ackermann](https://www.zhaw.ch/de/ueber-uns/person/acke/), ZHAW School of Engineering, Inventor of AR Patterns and ECA Diagram
+* [Steven Häsler](https://www.zhaw.ch/de/ueber-uns/person/hasv/), ZHAW School of Engineering, Technical Implementation 
+* [Alessandro Holler](https://www.zhdk.ch/person/alessandro-holler-184771), ZHdK Departement Design, Creator of Illustration Toolbox
+* [Stefan Schmidlin](https://www.zhdk.ch/person/stefan-schmidlin-170111), ZHdK Departement Design, Conceptual Coaching
+* Benjamin Stern, ZHAW School of Engineering, Technical Implementation
