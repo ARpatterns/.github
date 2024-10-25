@@ -46,7 +46,7 @@ The creation of these github repositories and the [arpatterns.dev](https://arpat
 
 The project has been initiated and is run by
 * [Philipp Ackermann](https://www.zhaw.ch/de/ueber-uns/person/acke/), ZHAW School of Engineering
-* [Steven Häsler]([)](https://www.zhaw.ch/de/ueber-uns/person/hasv/), ZHAW School of Engineering
+* [Steven Häsler](https://www.zhaw.ch/de/ueber-uns/person/hasv/), ZHAW School of Engineering
 * [Alessandro Holler](https://www.zhdk.ch/person/alessandro-holler-184771), ZHdK Departement Design
 * [Stefan Schmidlin](https://www.zhdk.ch/person/stefan-schmidlin-170111), ZHdK Departement Design
 * Benjamin Stern, ZHAW School of Engineering
