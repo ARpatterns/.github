@@ -53,9 +53,9 @@ The project has been initiated and is run by
 
 Technology-specific use cases to demonstate AR patterns in specific AR scenarios are work-in-progress and are contributed by 
 *  Apple Reality Composer
-  * [Win-Hon Trinh](https://github.com/Winni00)
+  * [Win-Hon Trinh](https://www.zhaw.ch/de/ueber-uns/person/trih/): 
 * ARchi VR
-  * [Philipp Ackermann](https://www.zhaw.ch/de/ueber-uns/person/acke/)
+  * [Philipp Ackermann](https://www.zhaw.ch/de/ueber-uns/person/acke/): https://github.com/ARpatterns/declare/ 
 * Snap AR
   * [Martina Kessler](https://www.zhaw.ch/de/ueber-uns/person/kesm/)
   * [Stefan Schmidlin](https://www.zhdk.ch/person/stefan-schmidlin-170111)
