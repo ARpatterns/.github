@@ -57,5 +57,5 @@ Technology-specific use cases to demonstate AR patterns in specific AR scenarios
 * **ARchi VR**
   * [Philipp Ackermann](https://www.zhaw.ch/de/ueber-uns/person/acke/)
 * **Snap AR**
-  * Martina Kessler
+  * [Martina Kessler](https://www.zhaw.ch/de/ueber-uns/person/kesm/)
   * [Stefan Schmidlin](https://www.zhdk.ch/person/stefan-schmidlin-170111)
